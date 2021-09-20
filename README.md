@@ -5,10 +5,9 @@
 
 
 ## Overview of the statistical analysis:
+Purpose: Create a story to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis of current Citibike sharing program in New York City. 
 
-The purpose of the analysis is well defined. (5 pt)
-
-##Results:
+## Results:
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 
 -image 7
@@ -46,11 +45,14 @@ There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 
 
 
-There is a description of the results for each visualization (7 pt)
+
 
 ## Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+
+Males are more likely to utilize citibikes than females. Additionally subscribers are more likely to utilize citibikes for commuting during weekday AM and PM hours, where as customers are more likely to use citibikes on the weekends. 
+
 
 - Based on results by gender, we should target female markets more. 
 
